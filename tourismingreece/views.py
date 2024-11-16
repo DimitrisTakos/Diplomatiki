@@ -4,5 +4,5 @@ from django.shortcuts import render
 
 
 def main_page(request):
-    return render(request, 'tourismingreece/main_page.html', {})
+    return render(request, 'tourismingreece/index.html', {})
 
