@@ -4,7 +4,7 @@ from django.shortcuts import render
 
 
 def main_page(request):
-    return render(request, 'tourismingreece/index.html', {})
+    return render(request, 'tourismingreece/main_page.html', {})
 
 
 def about_us(request):
