@@ -885,7 +885,7 @@ img {
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    padding: 10px 15px;
+    padding: 20px 30px;
     background-color: #181818;
     border: 2px solid #cb8670;
     display: inline-block;
